@@ -1,0 +1,84 @@
+---------------------------------------------------------------
+[ 2019-02-28T14:20:03+08:00 ] 127.0.0.1 GET s.upc.edu.cn/
+[ error ] [0]致命错误: Call to undefined function U()
+---------------------------------------------------------------
+[ 2019-02-28T14:20:46+08:00 ] 127.0.0.1 GET s.upc.edu.cn/
+[ error ] [0]致命错误: Call to undefined function U()
+---------------------------------------------------------------
+[ 2019-02-28T14:20:48+08:00 ] 127.0.0.1 GET s.upc.edu.cn/
+[ error ] [0]致命错误: Call to undefined function U()
+---------------------------------------------------------------
+[ 2019-02-28T14:20:48+08:00 ] 127.0.0.1 GET s.upc.edu.cn/
+[ error ] [0]致命错误: Call to undefined function U()
+---------------------------------------------------------------
+[ 2019-02-28T14:20:50+08:00 ] 127.0.0.1 GET s.upc.edu.cn/
+[ error ] [0]致命错误: Call to undefined function U()
+---------------------------------------------------------------
+[ 2019-02-28T16:05:52+08:00 ] 127.0.0.1 GET s.upc.edu.cn/index/
+[ error ] [0]语法解析错误: syntax error, unexpected '；' (T_STRING)
+---------------------------------------------------------------
+[ 2019-02-28T16:05:57+08:00 ] 127.0.0.1 GET s.upc.edu.cn/
+[ error ] [0]语法解析错误: syntax error, unexpected '；' (T_STRING)
+---------------------------------------------------------------
+[ 2019-02-28T16:06:00+08:00 ] 127.0.0.1 GET s.upc.edu.cn/
+[ error ] [0]语法解析错误: syntax error, unexpected '；' (T_STRING)
+---------------------------------------------------------------
+[ 2019-02-28T16:06:00+08:00 ] 127.0.0.1 GET s.upc.edu.cn/
+[ error ] [0]语法解析错误: syntax error, unexpected '；' (T_STRING)
+---------------------------------------------------------------
+[ 2019-02-28T16:06:00+08:00 ] 127.0.0.1 GET s.upc.edu.cn/
+[ error ] [0]语法解析错误: syntax error, unexpected '；' (T_STRING)
+---------------------------------------------------------------
+[ 2019-02-28T16:07:02+08:00 ] 127.0.0.1 GET s.upc.edu.cn/
+[ error ] [0]语法解析错误: syntax error, unexpected '；' (T_STRING)
+---------------------------------------------------------------
+[ 2019-02-28T17:16:27+08:00 ] 127.0.0.1 GET s.upc.edu.cn/index/Index/add
+[ error ] [0]模板文件不存在:F:\xampp\htdocs\TP\public/../application/index\view\index\add.html
+---------------------------------------------------------------
+[ 2019-02-28T17:37:00+08:00 ] 127.0.0.1 GET s.upc.edu.cn/index/user/add
+[ error ] [0]语法解析错误: syntax error, unexpected '{', expecting '('
+---------------------------------------------------------------
+[ 2019-02-28T17:37:03+08:00 ] 127.0.0.1 GET s.upc.edu.cn/index/user/add
+[ error ] [0]语法解析错误: syntax error, unexpected '{', expecting '('
+---------------------------------------------------------------
+[ 2019-02-28T17:37:04+08:00 ] 127.0.0.1 GET s.upc.edu.cn/index/user/add
+[ error ] [0]语法解析错误: syntax error, unexpected '{', expecting '('
+---------------------------------------------------------------
+[ 2019-02-28T17:37:04+08:00 ] 127.0.0.1 GET s.upc.edu.cn/index/user/add
+[ error ] [0]语法解析错误: syntax error, unexpected '{', expecting '('
+---------------------------------------------------------------
+[ 2019-02-28T17:37:04+08:00 ] 127.0.0.1 GET s.upc.edu.cn/index/user/add
+[ error ] [0]语法解析错误: syntax error, unexpected '{', expecting '('
+---------------------------------------------------------------
+[ 2019-02-28T17:37:04+08:00 ] 127.0.0.1 GET s.upc.edu.cn/index/user/add
+[ error ] [0]语法解析错误: syntax error, unexpected '{', expecting '('
+---------------------------------------------------------------
+[ 2019-02-28T17:37:04+08:00 ] 127.0.0.1 GET s.upc.edu.cn/index/user/add
+[ error ] [0]语法解析错误: syntax error, unexpected '{', expecting '('
+---------------------------------------------------------------
+[ 2019-02-28T17:37:04+08:00 ] 127.0.0.1 GET s.upc.edu.cn/index/user/add
+[ error ] [0]语法解析错误: syntax error, unexpected '{', expecting '('
+---------------------------------------------------------------
+[ 2019-02-28T17:37:05+08:00 ] 127.0.0.1 GET s.upc.edu.cn/index/user/add
+[ error ] [0]语法解析错误: syntax error, unexpected '{', expecting '('
+---------------------------------------------------------------
+[ 2019-02-28T17:37:05+08:00 ] 127.0.0.1 GET s.upc.edu.cn/index/user/add
+[ error ] [0]语法解析错误: syntax error, unexpected '{', expecting '('
+---------------------------------------------------------------
+[ 2019-02-28T17:41:47+08:00 ] 127.0.0.1 GET s.upc.edu.cn/admin/user/add
+[ error ] [0]语法解析错误: syntax error, unexpected '{', expecting '('
+---------------------------------------------------------------
+[ 2019-02-28T17:44:02+08:00 ] 127.0.0.1 GET s.upc.edu.cn/admin/user/add
+[ error ] [0]语法解析错误: syntax error, unexpected '{', expecting '('
+---------------------------------------------------------------
+[ 2019-02-28T17:44:03+08:00 ] 127.0.0.1 GET s.upc.edu.cn/admin/user/add
+[ error ] [0]语法解析错误: syntax error, unexpected '{', expecting '('
+---------------------------------------------------------------
+[ 2019-02-28T17:44:03+08:00 ] 127.0.0.1 GET s.upc.edu.cn/admin/user/add
+[ error ] [0]语法解析错误: syntax error, unexpected '{', expecting '('
+---------------------------------------------------------------
+[ 2019-02-28T17:44:04+08:00 ] 127.0.0.1 GET s.upc.edu.cn/admin/user/add
+[ error ] [0]语法解析错误: syntax error, unexpected '{', expecting '('
+---------------------------------------------------------------
+[ 2019-02-28T17:44:05+08:00 ] 127.0.0.1 GET s.upc.edu.cn/admin/user/add
+[ error ] [0]语法解析错误: syntax error, unexpected '{', expecting '('
